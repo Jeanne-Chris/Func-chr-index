@@ -1,5 +1,4 @@
-"""This is a function that divides and groups the alphabet capital letters
-according to a given input integer."""
+# This is a function that divides and groups the alphabet capital letters according to a given input integer. 
 
 all_chr = [chr(alphabet) for alphabet in range(0, 255)]
 print()
